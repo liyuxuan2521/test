@@ -1,3 +1,8 @@
 阿道夫 new
 master and feature1
+<<<<<<< HEAD
 dev newt master 101
+=======
+dev newt
+half work
+>>>>>>> dev
